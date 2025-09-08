@@ -26,7 +26,7 @@ export default defineConfig({
           {
             label: {
               en: "Guides",
-              "zh-cn": "指南",
+              "zh-CN": "指南",
             },
             link: "guides/example",
             items: [
@@ -34,7 +34,7 @@ export default defineConfig({
               {
                 label: "test",
                 translations: {
-                  "zh-cn": "测试",
+                  "zh-CN": "测试",
                 },
                 autogenerate: { directory: "guides" },
               },
